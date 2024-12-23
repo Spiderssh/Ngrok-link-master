@@ -7,7 +7,7 @@ This tool retrieves the public Ngrok URL and masks it with a public URL using a 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Spiderssh/Ngrok-link-master
-   cd ngrok-link-masker
+   cd Ngrok-link-masker
 
 2. Install dependancies
    ```bash
@@ -16,7 +16,7 @@ This tool retrieves the public Ngrok URL and masks it with a public URL using a 
 
 3. Run the script
    ```bash
-   mask_link.py
+   Code.py
 
 REQUIREMENTS 
 ```txt
