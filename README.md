@@ -18,4 +18,7 @@ This tool retrieves the public Ngrok URL and masks it with a public URL using a 
    ```bash
    mask_link.py
 
-   
+REQUIREMENTS 
+   •Python3
+   •Ngrok (ensure it's running) 
+   •Internet Connection 
